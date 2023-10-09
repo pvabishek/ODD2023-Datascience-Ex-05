@@ -1,5 +1,5 @@
 # Ex:05 Feature Generation
-#### Reg.No : 212221040001 <br> Date :
+#### Reg.No :212222230003 <br> Date :
 ## AIM
 
 To read the given data and perform  Feature Encoding & Scaling process and save the data to a file.
@@ -163,4 +163,4 @@ df5
 ![image](https://github.com/Pranav-AJ/ODD2023-Datascience-Ex-05/assets/118904526/9f90beeb-9d1d-41e2-afc8-4e347161504b)
 
 ## RESULT:
-This Program has run successfully.
+This Program has executed successfully.
